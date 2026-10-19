@@ -1,9 +1,7 @@
 **About me:**  
 
 - 🔭 I’m currently work in ShangHai.
-- 🌱 I’m currently learning AI, web3D, Data Structures, Algorithms and Design Patterns.
-- 💬 Ask me about Front-end technology.
-- 📫 How to reach me: [here](https://github.com/Cleam/Cleam/issues) or cleam_lee (wechat).
+- 🌱 I’m currently learning AI, FullStack, web3D, Data Structures, Algorithms and Design Patterns.
 
 **Languages and Tools:**  
 
